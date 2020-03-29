@@ -25,8 +25,8 @@
 Saudi Arabia where I live just started developing tourism. In September, 2019 it launched the tourist visa and since then more than 400,000 visas were issued. So many of my non-Saudi friends who never been here asks weird questions about Saudi Arabia lifestyle starting from if we are still riding camels or how wealthy people are here. In that project I'll try help people wondering about Saudi Arabia by pairing most popular cities to famous cities around the world.
  <div>
 
- ![Al-Ula, Saudi Arabia](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arabnews.com%2Fnode%2F1606321%2Fsaudi-arabia&psig=AOvVaw3nYpkB_QYVu4EfPp7j-ZeL&ust=1585585810950000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjRjdONwOgCFQAAAAAdAAAAABAQ "AL-Ula, Saudi Arabia")
- Format: ![Alt Text](url)
+<p align="center"><img src="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2019/12/31/1908066-659934436.jpg?itok=kXf2B0JM" alt="Sublime's custom image"/></p>
+
 
 ### 1.2 Problem
 
