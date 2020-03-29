@@ -22,7 +22,7 @@
 
 <div align="justify">
 
-Saudi Arabia where I live just started developing tourism. In September, 2019 it launched the tourist visa and since then more than 400,000 visas were issued. So many of my non-Saudi friends who never been here asks weird questions about Saudi Arabia lifestyle starting from if we are still riding camels or how wealthy people are here. In that project I'll try help people wondering about Saudi Arabia by pairing most popular cities to famous cities around the world.
+Saudi Arabia where I live just started developing tourism. In September, 2019 it launched the tourist visa and since then more than 400,000 visas were issued. So many of my non-Saudi friends who never been here asks weird questions about Saudi Arabia lifestyle starting from if we are still riding camels or how wealthy people are here. In that project I'll try to help people wondering about Saudi Arabia by pairing its most popular cities to famous cities around the world.
  <div>
 
 <p align="center"><img src="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2019/12/31/1908066-659934436.jpg?itok=kXf2B0JM" alt="Sublime's custom image"/></p>
@@ -38,7 +38,7 @@ Al-Ula, KSA
 
 <div align="justify">
 
-Saudi Arabia is unknown to so many people. People around the world were not allowed to visit Saudi Arabia for tourism but things are changing here so many festivals, concerts and attraction events were conducted last year and it's so fun here. Saudi Arabia is large country it has various cultures, heritage and natural regions. For that I want to give an idea about which cities you may like in Saudi Arabia to provide the visitor with a better experience.
+Saudi Arabia is unknown to so many people. People around the world were not allowed to visit Saudi Arabia for tourism but things were changed lately and keep changing. So many festivals, concerts and attraction events were conducted last year and it's so fun here. Saudi Arabia is a large country it has various cultures, heritage and natural regions. For that I want to give an idea about which cities you may like in Saudi Arabia to offer a better experience for the visitor.
 
  <div>
 
@@ -52,7 +52,7 @@ Saudi Arabia is unknown to so many people. People around the world were not allo
  2. Data Collection
 </H2>
 <div align="justify">
-For that Project I' compare Riyadh, Jeddah and Dammam which are the biggest Saudi cities to a list of cities. I found what I want <a href=https://www.listchallenges.com/250-most-famous-cities/html/">Here</a>. So I scraped all cities names. Then I'm going to find a coordinate point in every city and use it foursquare API to collect venues of interest within the city. The table below shows a sample of the dataset.
+For that Project I'll compare Riyadh, Jeddah and Dammam which are the biggest Saudi cities to a list of cities. I found what I want <a href=https://www.listchallenges.com/250-most-famous-cities/html/">Here</a>. So I scraped all cities names. Then I'm going to find a coordinate point in every city and use Foursquare API to collect venues of interest within the city. The table below shows a sample of the dataset.
 <br> <br>
 
  <div>
