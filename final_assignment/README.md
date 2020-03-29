@@ -32,8 +32,9 @@ Al-Ula, KSA
  <div>
 
 
-
-### 1.2 Problem
+<H3 align="Left">
+1.2 Problem
+</h3>
 
 <div align="justify">
 
@@ -47,13 +48,15 @@ Saudi Arabia is unknown to so many people. People around the world were not allo
 
   <div>
 
-
- ## 2. Data Collection
+<H2 align="Left">
+ 2. Data Collection
+</H2>
 <div align="justify">
 For that Project I' compare Riyadh, Jeddah and Dammam which are the biggest Saudi cities to a list of cities. I found what I want <a href=https://www.listchallenges.com/250-most-famous-cities/html/">Here</a>. So I scraped all cities names. Then I'm going to find a coordinate point in every city and use it foursquare API to collect venues of interest within the city.
+
  <div>
 
-<p align="center"><img src="map.png"/></p>
+<p align="center"> <br> <br> <img src="map.png"/></p>
 
 <div align="center">
 Cities Points
