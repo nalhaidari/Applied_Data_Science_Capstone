@@ -35,3 +35,14 @@ Saudi Arabia where I live just started developing tourism. In September, 2019 it
 Saudi Arabia is unknown to so many people. People around the world were not allowed to visit Saudi Arabia for tourism but things are changing here so many festivals, concerts and attraction events were conducted last year and it's so fun here. Saudi Arabia is large country it has various cultures, heritage and natural regions. For that I want to give an idea about which cities you may like in Saudi Arabia to provide the visitor with a better experience.
 
  <div>
+
+ <p align="center"><img src="https://www.aecom.com/wp-content/uploads/2020/01/Jeddah-corniche-KSA-1080px-V3.jpg"/></p>
+
+ ## 2. Data Collection
+
+For that Project I' compare Riyadh, Jeddah and Dammam which are the biggest Saudi cities to a list of cities. I found what I want [here][1]. So I scraped all cities names. Then I'm going to find a coordinate point in every city and use it foursquare API to collect venues of interest within the city.
+
+
+
+
+[1]: (https://www.listchallenges.com/250-most-famous-cities)
