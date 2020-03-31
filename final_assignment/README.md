@@ -71,28 +71,64 @@ Cities Points
 
  <H2 align="Left">
  3 Methodology
- </h3>
+ </H2>
 
-<div align="justify"> <br>
+<div align="justify">
 In this Project I used KMeans to clusters cities bast on venues' categories collected from Foursquare API using explore endpoint. and then I predict the largest Sadi Arabia cities. and then visualized each of their clusters you can view the notebook from <a href="https://github.com/nalhaidari/Applied_Data_Science_Capstone/tree/master/final_assignment/Notebook/Cities_clustring.ipynb"> Here</a>.
+<br><br>
+
+I used elbow KElbowVisualizer to determine the number of clusters we should use in this model and as shown in the below figure K = 16
+
+<p align="center"> <br> <img src="Vis/k.png"/></p>
+<div align="center">
 
  </div>
 
 
  <H2 align="Left">
  4 Results
- </h3>
+ </H2>
+
+ <div align="justify">
+
+ As mentioned earlier the k used in this model is 16 some clusters has more cities that other number of cities for each cluster shown in the following graph
+ <p align="center"> <br> <img src="Vis/Cities_Count_Per_Cluster.png"/></p>
+ </div>
+<br>
+
+Then I've generated a map of the cities colored based on their cluster
+
+<p align="center"> <br> <img src="Vis/clusters_map.png"/></p>
+</div>
+
+
 
  <H2 align="Left">
  5 Discussion
  </h3>
 
+I Believe that the result is making a little sense because Jeddah and Dammam are seaside cities and most of the cities in their cluster are. that can be visualized on a map for that cluster. And It's clear that cluster has mostly eruopian cities.
+<p align="center"> <br> <img src="Vis/jed_dmm_cluster_map.png"/></p>
+</div>
+<div align="Center">Cluster where Jeddah and Dammam were predicted</div>
+<br>
+<br>
+<br>
 
- Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+<br>
+<br>
 
+By visualizing Riyadh cluster we can notice there are manay cities from the US than it was in Jeddah and Dammam cluster
 
+<p align="center"> <br> <img src="Vis/riyadh_cluster_map.png"/></p>
+</div>
+<div align="Center">Cluster where Riyadh was predicted</div>
+
+Finally, I would do recommend to add more features to the cities such as continent, is it the capital, is it a seafront ...etc to report the result with more details.
 
 
   <H2 align="Left">
   6 Conclusion
   </h3>
+
+In that project I tried to cluster most famous cities around the world based on venues' categories which obtained by Foursquare API then I predicted the largest Saudi cities in which cluster they fall.
