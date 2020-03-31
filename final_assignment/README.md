@@ -79,7 +79,7 @@ In this Project I used KMeans to clusters cities bast on venues' categories coll
 
 I used elbow KElbowVisualizer to determine the number of clusters we should use in this model and as shown in the below figure K = 16
 
-<p align="center"> <br> <img src="Vis/k.png"/></p>
+<p align="center"> <br> <img src="https://raw.githubusercontent.com/nalhaidari/Applied_Data_Science_Capstone/master/final_assignment/Vis/K.png"/></p>
 <div align="center">
 
  </div>
