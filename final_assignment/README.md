@@ -90,7 +90,7 @@ In this Project I used KMeans to clusters cities bast on venues' categories coll
 
  Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
 
- When I first decided to create this study I was expecting to find clusters of restaurants in certain regions and the final result didn't meet that expectation.
+
 
 
   <H2 align="Left">
