@@ -113,17 +113,17 @@ I Believe that the result is making a little sense because Jeddah and Dammam are
 <div align="Center">Cluster where Jeddah and Dammam were predicted</div>
 <br>
 <br>
-<br>
 
-<br>
-<br>
 
 By visualizing Riyadh cluster we can notice there are manay cities from the US than it was in Jeddah and Dammam cluster
 
 <p align="center"> <br> <img src="Vis/riyadh_cluster_map.png"/></p>
 </div>
 <div align="Center">Cluster where Riyadh was predicted</div>
+<br>
 
+<br>
+<br>
 Finally, I would do recommend to add more features to the cities such as continent, is it the capital, is it a seafront ...etc to report the result with more details.
 
 
